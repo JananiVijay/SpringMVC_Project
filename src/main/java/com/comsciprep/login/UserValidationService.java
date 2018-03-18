@@ -1,4 +1,4 @@
-package comsciprep.jee;
+package com.comsciprep.login;
 
 public class UserValidationService {
 	
